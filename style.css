@@ -279,12 +279,14 @@ img.aligncenter {
 /* Sidebar */
 
 #sidebar {
-	float: left;
-	width: 240px;
-	padding: 0px 0px 0px 0px;
+    float: left;
+    width: 240px;
+    padding: 0px 0px 0px 0px;
+    border-right: 1px solid #B6BFD0;
+    height:1000px;
 }
 
-#sidebar ul {
+    #sidebar ul {
 	margin: 0;
 	padding: 0;
 	list-style: none;
